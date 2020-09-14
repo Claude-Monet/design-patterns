@@ -1,3 +1,5 @@
+package factory_method;
+
 public class MazeGame {
     Maze CreateMazeGame() {
         Maze m = new Maze();

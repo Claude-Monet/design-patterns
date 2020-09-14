@@ -1,3 +1,5 @@
+package factory_method;
+
 public class BombMazeGame extends MazeGame {
 
     public Room makeRoom(int roomNo){

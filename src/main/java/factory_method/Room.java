@@ -1,3 +1,5 @@
+package factory_method;
+
 public class Room extends MapSite {
     private MapSite[] sites = new MapSite[4];
     private int roomNo;

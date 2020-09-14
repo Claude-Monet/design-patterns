@@ -1,3 +1,5 @@
+package factory_method;
+
 public class Door extends MapSite {
     private Room room1, room2;
     private boolean isOpen;
